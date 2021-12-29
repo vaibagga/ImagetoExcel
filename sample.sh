@@ -1,0 +1,1 @@
+python main.py images/panda2.jpg 10 10 sample.xlsx
